@@ -536,7 +536,7 @@
         "ready": "https://ecdldaiiere.github.io/Eddiez-Soundz/ring_ready.wav",
         "go": "https://ecdldaiiere.github.io/Eddiez-Soundz/ring_go.wav",
         "died": "https://ecdldaiiere.github.io/Eddiez-Soundz/ring_died.wav",
-        "hold": "https://ecdldaiiere.github.io/Eddiez-Soundz/ring_lock.mp3",
+        "hold": "https://ecdldaiiere.github.io/Eddiez-Soundz/ring_lock.wav",
         "move": "https://ecdldaiiere.github.io/Eddiez-Soundz/ring_move.wav",
         "golive": "https://ecdldaiiere.github.io/Eddiez-Soundz/ring_go.wav",
         "scoring": {
