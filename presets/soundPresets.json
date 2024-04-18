@@ -526,7 +526,12 @@
                     "b2b": false
                 }
             ]
-        }
+        },
+        "songs": [
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/Pokemonsong1.wav",
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/Pokemonsong2.wav",
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/Pokemonsong3.wav"
+        ]
     },
     {
         "name": "Ring Fit Sound Pack",
@@ -561,7 +566,12 @@
                     "b2b": false
                 }
             ]
-        }
+        },
+        "songs": [
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/ring_song1.mp3",
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/ring_song2.wav",
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/ring_song3.wav"
+        ]
     },
     {
         "name": "Animal Sound Pack",
@@ -596,6 +606,11 @@
                     "b2b": false
                 }
             ]
-        }
+        },
+        "songs": [
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/animalsong1.wav",
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/animalsong2.wav",
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/animalsong3.wav"
+        ]
     }
 ]
