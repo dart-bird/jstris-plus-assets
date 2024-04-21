@@ -33,13 +33,23 @@
         "ghostUrl": "https://i.imgur.com/21r3sZ7.png"
     },
     {
-        "name": "Ring Fit Sound Pack",
+        "name": "Ring Fit Skin",
         "url": "https://i.imgur.com/Oj6OY06.png",
         "ghostUrl": "https://i.imgur.com/cJM7iMx.png"
     },
     {
-        "name": "Animal Sound Pack",
+        "name": "Animal Skin",
         "url": "https://i.imgur.com/w1qCuSi.png",
         "ghostUrl": "https://i.imgur.com/EtsCDW5.png"
+    },
+    {
+        "name": "Donkey Skin",
+        "url": "https://i.imgur.com/aMwXc6u.png",
+        "ghostUrl": "https://i.imgur.com/1r6IOMb.png"
+    },
+    {
+        "name": "Mario Skin",
+        "url": "https://i.imgur.com/JnOalpR.png",
+        "ghostUrl": "https://i.imgur.com/9EwVLoj.png"
     }
 ]
