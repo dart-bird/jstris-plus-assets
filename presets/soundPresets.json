@@ -612,5 +612,85 @@
             "https://ecdldaiiere.github.io/Eddiez-Soundz/animalsong2.wav",
             "https://ecdldaiiere.github.io/Eddiez-Soundz/animalsong3.wav"
         ]
+    },
+    {
+        "name": "Donkey Sound Pack",
+        "harddrop": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_lock.wav",
+        "rotate": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_rotate.wav",
+        "lock": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_lock.wav",
+        "ready": "https://ecdldaiiere.github.io/Eddiez-Soundz/t99_ready.wav",
+        "go": "https://ecdldaiiere.github.io/Eddiez-Soundz/t99_go.wav",
+        "died": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_died.wav",
+        "hold": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_hold.wav",
+        "move": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_move.wav",
+        "golive": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_go.wav",
+        "scoring": {
+            "CLEAR1": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_clear1.wav",
+            "CLEAR2": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_clear2.wav",
+            "CLEAR3": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_clear3.wav",
+            "CLEAR4": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_clear4.wav",
+            "TSPIN_MINI_SINGLE": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_tspinsingle.mp3",
+            "TSPIN_SINGLE": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_tspinsingle.mp3",
+            "TSPIN_DOUBLE": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_tspindouble.mp3",
+            "TSPIN_TRIPLE": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_tspintriple.mp3",
+            "PERFECT_CLEAR": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_clear4.wav"
+        },
+        "specialScoring": {
+            "ALLSPIN": [
+                {
+                    "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_b2btetris.mp3",
+                    "b2b": true
+                },
+                {
+                    "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkey_clear3.wav",
+                    "b2b": false
+                }
+            ]
+        },
+        "songs": [
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkeysong1.mp3",
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkeysong2.wav",
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/Donkeysong3.wav"
+        ]
+    },
+    {
+        "name": "Mario Sound Pack",
+        "harddrop": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_lock.wav",
+        "rotate": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_rotate.wav",
+        "lock": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_lock.wav",
+        "ready": "https://ecdldaiiere.github.io/Eddiez-Soundz/t99_ready.wav",
+        "go": "https://ecdldaiiere.github.io/Eddiez-Soundz/t99_go.wav",
+        "died": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_died.wav",
+        "hold": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_hold.wav",
+        "move": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_move.wav",
+        "golive": "https://ecdldaiiere.github.io/Eddiez-Soundz/t99_go.wav",
+        "scoring": {
+            "CLEAR1": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_clear1.wav",
+            "CLEAR2": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_clear2.wav",
+            "CLEAR3": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_clear3.wav",
+            "CLEAR4": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_clear4.wav",
+            "TSPIN_MINI_SINGLE": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_tspinsingle.mp3",
+            "TSPIN_SINGLE": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_tspinsingle.mp3",
+            "TSPIN_DOUBLE": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_tspindouble.mp3",
+            "TSPIN_TRIPLE": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_tspintriple.mp3",
+            "PERFECT_CLEAR": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_clear4.wav"
+        },
+        "specialScoring": {
+            "ALLSPIN": [
+                {
+                    "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_b2btetris.mp3",
+                    "b2b": true
+                },
+                {
+                    "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/Mario_clear3.wav",
+                    "b2b": false
+                }
+            ]
+        },
+        "songs": [
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/Mariosong1.mp3",
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/Mariosong2.wav",
+            "https://ecdldaiiere.github.io/Eddiez-Soundz/Mariosong3.wav"
+        ]
     }
 ]
