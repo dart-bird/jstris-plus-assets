@@ -693,36 +693,36 @@
             "https://ecdldaiiere.github.io/Eddiez-Soundz/Mariosong3.wav"
         ]
     },
-    {
+   {
         "name": "Catizen Sound Pack",
-        "harddrop": "https://dart-bird.github.io/Eddiez-Soundz/Hello_Man_A.mp3",
-        "rotate": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Female_J.mp3",
-        "lock": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Female_F.mp3",
-        "ready": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Man_A.mp3",
-        "go": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Man_J.mp3",
-        "died": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Man_V.mp3",
-        "hold": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Female_F.mp3",
-        "move": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Man_C.mp3",
-        "golive": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Man_C.mp3",
+        "harddrop": "https://blog.dartbird.dev/Eddiez-Soundz/Hello_Man_A.mp3",
+        "rotate": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Female_J.mp3",
+        "lock": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Female_F.mp3",
+        "ready": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Man_A.mp3",
+        "go": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Man_J.mp3",
+        "died": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Man_J.mp3",
+        "hold": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Female_F.mp3",
+        "move": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Man_C.mp3",
+        "golive": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Man_C.mp3",
         "scoring": {
-            "CLEAR1": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Female_F.mp3",
-            "CLEAR2": "https://dart-bird.github.io/Eddiez-Soundz/Hello_Man_F.mp3",
-            "CLEAR3": "https://dart-bird.github.io/Eddiez-Soundz/Hello_Man_V.mp3",
-            "CLEAR4": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Man_F.mp3",
-            "TSPIN_MINI_SINGLE": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Man_F.mp3",
-            "TSPIN_SINGLE": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Man_F.mp3",
-            "TSPIN_DOUBLE": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Man_F.mp3",
-            "TSPIN_TRIPLE": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Man_F.mp3",
-            "PERFECT_CLEAR": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Man_F.mp3"
+            "CLEAR1": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Female_F.mp3",
+            "CLEAR2": "https://blog.dartbird.dev/Eddiez-Soundz/Hello_Man_F.mp3",
+            "CLEAR3": "https://blog.dartbird.dev/Eddiez-Soundz/Hello_Man_G.mp3",
+            "CLEAR4": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Man_F.mp3",
+            "TSPIN_MINI_SINGLE": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Man_F.mp3",
+            "TSPIN_SINGLE": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Man_F.mp3",
+            "TSPIN_DOUBLE": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Man_F.mp3",
+            "TSPIN_TRIPLE": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Man_F.mp3",
+            "PERFECT_CLEAR": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Man_F.mp3"
         },
         "specialScoring": {
             "ALLSPIN": [
                 {
-                    "url": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Female_F.mp3",
+                    "url": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Female_F.mp3",
                     "b2b": true
                 },
                 {
-                    "url": "https://dart-bird.github.io/Eddiez-Soundz/Thanks_Female_F.mp3",
+                    "url": "https://blog.dartbird.dev/Eddiez-Soundz/Thanks_Female_F.mp3",
                     "b2b": false
                 }
             ]
